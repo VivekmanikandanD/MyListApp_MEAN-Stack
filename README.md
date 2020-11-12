@@ -1,5 +1,5 @@
 # MyListApp_MEAN-Stack
-This repository contains the source code of the MyList application developed with MEAN Stack.
+This repository contains the source code of the MyList application developed with MEAN Stack deployed using Two way setup.
 
 This application has been hosted on AWS with hostname http://listapp-meanstack.s3-website.us-east-2.amazonaws.com/
 
