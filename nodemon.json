@@ -1,0 +1,6 @@
+{
+  "env":{
+    "MONGO_ATLAS_PW":"pzGcUe3y8U7OQ9RP",
+    "JWT_KEY":"secret_key_of_my_lists_application_by_vivekmanikandanD"
+  }
+}
